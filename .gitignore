@@ -1,0 +1,19 @@
+# Dataset (download separately — see README)
+data/
+*.zip
+CUB_200_2011/
+CUB_200_2011_CROPPED/
+
+# Model checkpoints
+*.keras
+*.h5
+checkpoints/
+
+# Notebook / Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
